@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+}
+.account{
+    width: 100%;
+}
+.header{
+    height: 106px;
+    width: 100%;
+    padding: 0 10%;
+    background-color: #ffffff;
+    box-shadow: 0 1px 15px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+.head_right{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+.head_right_curcle{
+    width: 40px;
+    height: 40px;
+    border-radius: 400px;
+    background-color: #FFF8F0;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.13);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 21px;
+}
+.divforabsolute{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flower1{
+    position: relative;
+    top: -10px;
+    right: 432px;
+}
+.flower2{
+    position: relative;
+    top: 7px;
+    right: 85px;
+    transform: rotate(162.46deg);
+}
+.fontfam{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.1em;
+    color: #000000;
+}
+.f24px400{
+    font-weight: 400;
+    font-size: 24px;
+}
+.f24px700_0_2{
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.2em;
+}
+.width300{
+    width: 300px;
+}
+.menu{
+    width: 100%;
+    height: 60px;
+    border-bottom: 1px solid rgba(168, 168, 168, 0.5);
+    padding: 0 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fefffa;
+    box-sizing: border-box;
+}
+.z-index1{
+    z-index: 1;
+}
+.main{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #fefffa;
+    padding: 0 10%;
+}
+.f18px500{
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 0.2em;
+    margin-top: 55px;
+    margin-bottom: 88px;
+}
+.f36px600_0_15{
+    font-weight: 600;
+    font-size: 36px;
+    letter-spacing: 0.15em;
+    margin-bottom: 32px;
+}
+.left_div{
+    width: 654px;
+    height: 646px;
+    left: 190px;
+    border: 2px solid #e0e1dc;
+    border-radius: 0px 0px 75px 0px;
+    padding-left: 40px;
+    padding-top: 40px;
+    dis
+}
+.block{
+    display: inline-block;
+}
+.left_div_block1{
+    height: 160px;
+    display: flex;
+}
+.ldivleft{
+    width: 160px;
+    height: 160px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    margin-right: 35px;
+}
+.ldivright{
+    
+}
+
