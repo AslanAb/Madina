@@ -1,11 +1,20 @@
 body{
     margin: 0;
     background-color: #fefffa;
+    font-family: 'Montserrat', sans-serif;
 }
 
 header{
     width: 1528px;
     height: 106px;
+}
+
+.mt-17{
+    margin-top: 17px;
+}
+
+.mt-30{
+    margin-top: 30px;
 }
 
 .mt-50{
@@ -16,8 +25,44 @@ header{
     margin-top: 90px;
 }
 
+.mt-130{
+    margin-top: 130px;
+}
+
+.ml-20{
+    margin-left: 20px;
+}
+
 .ml-55{
     margin-left: 55px;
+}
+
+.ml-185{
+    margin-left: -185px;
+}
+
+.ml-248{
+    margin-left: 248px;
+}
+
+.ml-234{
+    margin-left: 234px;
+}
+
+.ml-500{
+    margin-left: 500px;
+}
+
+.ml-507{
+    margin-left: 507px;
+}
+
+.ml-517{
+    margin-left: 517px;
+}
+
+.ml-522{
+    margin-left: 522px;
 }
 
 .flex{
@@ -60,14 +105,11 @@ header{
 .number{
     font-size: 24px;
     font-weight: 400;
-
 }
 
 .log-text{
     font-size: 24px;
     font-weight: 700;
-    margin-left: 254px;
-    font-family: 'Montserrat', sans-serif;
     letter-spacing: 5px;
     z-index: 1;
 }
@@ -120,26 +162,22 @@ header{
 .text{
     font-size: 18px;
     font-weight: 400;
-    font-family: 'Montserrat', sans-serif;
 }
 
 .u1{
     font-size: 18px;
     font-weight: 500;
-    font-family: 'Montserrat', sans-serif;
 }
 
 .u2{
     font-size: 14px;
     font-weight: 400;
-    font-family: 'Montserrat', sans-serif;
     margin-top: -80px;
 }
 
 .u3{
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
     color: #909090;
 }
 
@@ -152,7 +190,6 @@ header{
 .lich{
     font-size: 36px;
     font-weight: 500;
-    font-family: 'Montserrat', sans-serif;
     letter-spacing: 5px;
 }
 
@@ -178,9 +215,89 @@ header{
 .id-text{
     font-size: 18px;
     font-weight: 400;
-    font-family: 'Montserrat', sans-serif;
 }
 
-.idtext-small{
+.line-price{
+    width: 1037px;
+    height: 128px;
+    border-top: 2px solid #D6D3BB;
+    margin-left: 312px;
+}
 
+.bb{
+      border-bottom: 2px solid #D6D3BB;
+}
+
+.flower{
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 1px 1px 0 gray;
+}
+
+.lorem{
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.ml{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.pages{
+    width: 280px;
+    height: 37px;
+    padding-left: 50%;
+}
+
+.krug{
+    width: 38px;
+    height: 37px;
+    border: 1px solid #E2E0CE;
+    background-color: #f6f5ee;
+    border-radius: 100%;
+}
+
+.krug:hover{
+    background-color: #D6D3BB;
+}
+
+.footer{
+    width: 1540px;
+    height: 343px;
+}
+
+.end-text{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.carta{
+    margin-left: -30px;
+}
+
+.img3{
+    position: relative;
+    left: 270px;
+}
+
+.img4{
+    position: relative;
+    left: 270px;
+}
+
+.img5{
+    position: relative;
+    left: 270px;
+}
+
+.img6{
+    position: relative;
+    left: 270px;
+}
+
+.img7{
+    position: relative;
+    left: 270px;
 }
